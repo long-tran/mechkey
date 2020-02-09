@@ -6,8 +6,12 @@ The mapping for the keymap is this:
 ![Space65 Oblivion Git macro](space65-git-small.jpg?raw=true)
 
 ## Space65
-**Reset Sequence**: While plugging in the USB-C cable, hold the top left key, commonly programmed as **Esc** to put your board into bootloader mode.  
+**QMK Bootloader**: While plugging in the USB-C cable, hold the top left key, commonly programmed as **Esc** to put your board into bootloader mode.  
 Flash file: space65.json
+
+## Tokyo60
+**QMK Bootloader**: Put your Tokyo60 into boot loader mode using L_SHIFT+R_SHIFT+PAUSE.  
+The default layout uses FN+p for PAUSE.
 
 ## DZ60 boards
 I use left 2u Shift (ughh) with directional keys.  
