@@ -10,7 +10,7 @@ The mapping for the keymap is this:
 Flash file: space65.json
 
 ## TGR Jane V2
-**QMK Bootloader**: Plugin, then hold both shifts + B.
+**QMK Bootloader**: Quit QMK. Plugin, then hold both shifts + B. Then, open QMK.
 
 ## Tokyo60
 **QMK Bootloader**: Put your Tokyo60 into boot loader mode using L_SHIFT+R_SHIFT+PAUSE.  
