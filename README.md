@@ -9,6 +9,9 @@ The mapping for the keymap is this:
 **QMK Bootloader**: While plugging in the USB-C cable, hold the top left key, commonly programmed as **Esc** to put your board into bootloader mode.  
 Flash file: space65.json
 
+## TGR Jane V2
+**QMK Bootloader**: Plugin, then hold both shifts + B.
+
 ## Tokyo60
 **QMK Bootloader**: Put your Tokyo60 into boot loader mode using L_SHIFT+R_SHIFT+PAUSE.  
 The default layout uses FN+p for PAUSE.
