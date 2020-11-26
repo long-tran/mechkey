@@ -13,7 +13,7 @@ Flash file: space65.json
 **QMK Bootloader**: Quit QMK. Plugin, then hold both shifts + B. Then, open QMK.
 
 ## Tokyo60
-**QMK Bootloader**: Put your Tokyo60 into boot loader mode using L_SHIFT+R_SHIFT+PAUSE.  
+**QMK Bootloader**: Put your Tokyo60 into boot loader mode using L_SHIFT+R_SHIFT+B.  
 The default layout uses FN+p for PAUSE.
 
 ## DZ60 boards
