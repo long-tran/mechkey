@@ -19,3 +19,6 @@ The default layout uses FN+p for PAUSE.
 ## DZ60 boards
 I use left 2u Shift (ughh) with directional keys.  
 JSON configurator file: dz60_direction.json
+
+## UTD
+**QMK Bootloader**: Spacebar + B
