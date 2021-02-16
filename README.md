@@ -12,6 +12,9 @@ Flash file: space65.json
 ## TGR Jane V2
 **QMK Bootloader**: Quit QMK. Plugin, then hold both shifts + B. Then, open QMK.
 
+## TGR Alice
+**QMK Bootloader**: Hold ` while plugin in (second key).
+
 ## Tokyo60
 **QMK Bootloader**: Put your Tokyo60 into boot loader mode using L_SHIFT+R_SHIFT+B.  
 The default layout uses FN+p for PAUSE.
